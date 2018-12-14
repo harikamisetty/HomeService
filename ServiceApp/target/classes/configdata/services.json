@@ -1,0 +1,29 @@
+{
+  "header": "001",
+  "services": [
+    {
+      "serviceId": "s001",
+      "serviceName": "Plumbing"
+    },
+    {
+      "serviceId": "s002",
+      "serviceName": "Carpenter"
+    },
+      {
+      "serviceId": "s003",
+      "serviceName": "Electrician"
+    },
+      {
+      "serviceId": "s004",
+      "serviceName": "Painter"
+    },
+      {
+      "serviceId": "s005",
+      "serviceName": "Helper"
+    },
+      {
+      "serviceId": "s006",
+      "serviceName": "Driver"
+    }
+  ]
+}

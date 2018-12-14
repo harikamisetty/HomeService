@@ -1,0 +1,71 @@
+{
+  "header": "001",
+  "locations": [
+    {
+      "locationid": "L001",
+      "state": "Telangana",
+      "serviceLocations": [
+        {
+          "serviceLocationId": "SL001",
+          "serviceLocationName": "Kukatpally",
+          "services": [
+            "s001",
+            "s003"
+          ],
+          "enable": true
+        },
+        {
+          "serviceLocationId": "SL002",
+          "serviceLocationName": "Begampet",
+          "services": [
+            "s001",
+            "s003"
+          ],
+          "enable": true
+        },
+        {
+          "serviceLocationId": "SL003",
+          "serviceLocationName": "Hi-tech City",
+          "services": [
+            "s001",
+            "s003"
+          ],
+          "enablet": true
+        }
+      ]
+    },
+    {
+      "locationid": "L002",
+      "state": "Andhra Pradesh",
+      "serviceLocations": [
+        {
+          "serviceLocationId": "SL001",
+          "serviceLocationName": "Vijayawada",
+          "services": [
+            "s001",
+            "s003"
+          ],
+          "enable": true
+        },
+        {
+          "serviceLocationId": "SL002",
+          "serviceLocationName": "Amaravati",
+          "services": [
+            "s001",
+            "s003"
+          ],
+          "enable": true
+        },
+        {
+          "serviceLocationId": "SL003",
+          "serviceLocationName": "Vizag",
+          "services": [
+            "s001",
+            "s003"
+          ],
+          "enablet": true
+        }
+      ]
+    }
+  ]
+}
